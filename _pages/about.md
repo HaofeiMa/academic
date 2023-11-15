@@ -37,8 +37,8 @@ My research interest includes robot operation, grasping, object pose estimation.
  
 # 🔍 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.03 - Present</div><img src='images/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div><div><div class="badge">2023.03 - Present</div><img src='images/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="100%"></div></div>
+<div markdown="1">
 
 **Sampling Robots in Complex Environments**
 
@@ -57,8 +57,8 @@ Because of the irregularities on the object's surface and variations in lighting
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.02 - 2023.07</div><img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div><div><div class="badge">2023.02 - 2023.07</div><img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="100%"></div></div>
+<div markdown="1">
 
 **Autonomous Suture Robot System for Endoscopic Surgery**
 
@@ -73,8 +73,8 @@ The research objective is to enhance the efficiency and accuracy of autonomous s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.08 - 2023.02</div><img src='images/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div><div><div class="badge">2022.08 - 2023.02</div><img src='images/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="100%"></div></div>
+<div markdown="1">
 
 **Rock Core Box Handling Robot**
 
@@ -91,8 +91,8 @@ Rock Core samples obtained from drilling before oil extraction are crucial data 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.01 - 2022.06</div><img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div><div><div class="badge">2022.01 - 2022.06</div><img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="100%"></div></div>
+<div markdown="1">
 
 **Medical Pan-Tilt Control System Based on Binocular Vision**
 
@@ -113,8 +113,8 @@ In traditional medical processes, traditional Chinese medicine practitioners oft
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020.11 - 2021.05</div><img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="100%"><img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div><div><div class="badge">2020.11 - 2021.05</div><img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="100%"><img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="100%"></div></div>
+<div markdown="1">
 
 **Spherical Environmental Information Collection Robot**
 
@@ -135,7 +135,7 @@ Monitoring essential information in various hazardous environments, such as petr
 
 ## 📃 Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/202309_A_study_of_robotic_search_strategy_for_multi-radiation_sources_in_unknown_environments.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/202309_A_study_of_robotic_search_strategy_for_multi-radiation_sources_in_unknown_environments.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A study of robotic search strategy for multi-radiation sources in unknown environments](https://doi.org/10.1016/j.robot.2023.104529)
@@ -160,25 +160,25 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div> **Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**, **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
+<code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code>**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**, **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div> **Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**, Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
+<code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code>**Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**, Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Automation Letters</div> **Dynamic Planning of Mobile Manipulator Based on Perception Prediction**, Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
+<code class="language-plaintext highlighter-rouge">Robotics and Automation Letters</code>**Dynamic Planning of Mobile Manipulator Based on Perception Prediction**, Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div>**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**, Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
+<code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code>**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**, Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
 
 ## 📖 Patents
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div> [**A Rock Core Box Handling Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE1BAA2AAA8CDA8EDA9CIB9BIF9GBC9BED6BDA9HBH9IBE), Weidong Wang, Hengbin Liang, **Haofei Ma**, Gongcheng Wang (CN202310547284.5, Pending)
+<code class="language-plaintext highlighter-rouge">Invention Patent</code>[**A Rock Core Box Handling Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE1BAA2AAA8CDA8EDA9CIB9BIF9GBC9BED6BDA9HBH9IBE), Weidong Wang, Hengbin Liang, **Haofei Ma**, Gongcheng Wang (CN202310547284.5, Pending)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Utility Model Patent</div> [**A Spherical Metamorphic Robot and An Environmental Information Monitoring System**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AHIA8FDA8AGA9GGE9HAA6GAA9HDD9CIC9FCA9HDC9GDF9ICF), Yuhan Rao, Manhong Li, *Haofei Ma*, Yuchong Gao, Nuo Zhang, Xinyu Liu (CN202120212154.2)
+<code class="language-plaintext highlighter-rouge">Utility Model Patent</code>[**A Spherical Metamorphic Robot and An Environmental Information Monitoring System**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AHIA8FDA8AGA9GGE9HAA6GAA9HDD9CIC9FCA9HDC9GDF9ICF), Yuhan Rao, Manhong Li, *Haofei Ma*, Yuchong Gao, Nuo Zhang, Xinyu Liu (CN202120212154.2)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Utility Model Patent</div> [**A Rope Driven Cleaning Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA7BEA9DID9BIC9ICBBFIA8BDA9IBF9ICG8EEA9FDG), Bao Li, Manhong Li, Shuofan Li, **Haofei Ma**, Jidong Guo, Yuchong Gao, Yingxin Dong (CN202120545507.0)
+<code class="language-plaintext highlighter-rouge">Utility Model Patent</code>[**A Rope Driven Cleaning Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA7BEA9DID9BIC9ICBBFIA8BDA9IBF9ICG8EEA9FDG), Bao Li, Manhong Li, Shuofan Li, **Haofei Ma**, Jidong Guo, Yuchong Gao, Yingxin Dong (CN202120545507.0)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Utility Model Patent</div> [**Small Ocean Vehicles Using Wave Energy to Generate Electricity**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EEB9HFD3ABA3CBA9AIB9GIF8IAA9FADBCIA9BEA9ECDAGGA), Yihan Gao, **Haofei Ma**, Shaoan Chen, Haoran Sun, Chenxi Song (CN202020078465.X)
+<code class="language-plaintext highlighter-rouge">Utility Model Patent</code>[**Small Ocean Vehicles Using Wave Energy to Generate Electricity**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EEB9HFD3ABA3CBA9AIB9GIF8IAA9FADBCIA9BEA9ECDAGGA), Yihan Gao, **Haofei Ma**, Shaoan Chen, Haoran Sun, Chenxi Song (CN202020078465.X)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Software Copyright</div> **Identity Recognition and Infrared Temperature Measurement Control System**, **Haofei Ma** (2021SR1391064)
+<code class="language-plaintext highlighter-rouge">Utility Model Patent</code>**Identity Recognition and Infrared Temperature Measurement Control System**, **Haofei Ma** (2021SR1391064)
 
 # 🏆 Honors and Awards
 
