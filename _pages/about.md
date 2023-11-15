@@ -57,7 +57,7 @@ Because of the irregularities on the object's surface and variations in lighting
 </div>
 </div>
 
-<div class='paper-box'><div><div><div class="badge">2023.02 - 2023.07</div><img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div><div><div class="badge">2023.02 - 2023.07</div><img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="60%"></div></div>
 <div markdown="1">
 
 **Autonomous Suture Robot System for Endoscopic Surgery**
@@ -91,7 +91,7 @@ Rock Core samples obtained from drilling before oil extraction are crucial data 
 </div>
 </div>
 
-<div class='paper-box'><div><div><div class="badge">2022.01 - 2022.06</div><img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div><div><div class="badge">2022.01 - 2022.06</div><img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="60%"></div></div>
 <div markdown="1">
 
 **Medical Pan-Tilt Control System Based on Binocular Vision**
@@ -113,7 +113,7 @@ In traditional medical processes, traditional Chinese medicine practitioners oft
 </div>
 </div>
 
-<div class='paper-box'><div><div><div class="badge">2020.11 - 2021.05</div><img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="100%"><img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div><div><div class="badge">2020.11 - 2021.05</div><img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="30%"><img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="30%"></div></div>
 <div markdown="1">
 
 **Spherical Environmental Information Collection Robot**

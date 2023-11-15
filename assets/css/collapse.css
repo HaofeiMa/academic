@@ -14,3 +14,13 @@
 .container .content {
     display: none;
     padding : 5px;
+}
+.highlighter-rouge {
+    background-color: #03228d;
+    color: white;
+    margin-bottom: 0em;
+    padding: 0em;
+    font-size: .6875em;
+    border: 0px solid #f2f3f3;
+    border-radius: 0
+}
