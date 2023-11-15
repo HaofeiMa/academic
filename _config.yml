@@ -30,7 +30,8 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "mail@mahaofei.com"
   researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "www.mahaofei.com"
+  uri              : # "https://www.mahaofei.com"
+  blog             : "https://www.mahaofei.com"
   bitbucket        :
   codepen          :
   dribbble         :

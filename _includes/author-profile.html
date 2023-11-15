@@ -28,6 +28,9 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
+      {% if author.blog %}
+        <li><a href="{{ author.blog }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Blog</a></li>
+      {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
@@ -122,6 +125,9 @@
       <div class="author__urls_sm">
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.blog %}
+        <a href="{{ author.blog }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
