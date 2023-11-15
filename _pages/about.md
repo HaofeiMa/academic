@@ -43,7 +43,7 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 <div class='paper-box'>
 <!-- <div class='paper-box-image'> -->
-<div>
+<div style='text-align: center;'>
 <div class="badge">2023.03 - Present</div>
 <img src='images/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="60%">
 </div>
@@ -71,9 +71,9 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 <div class='paper-box'>
 <!-- <div class='paper-box-image'> -->
-<div>
+<div style='text-align: center;'>
 <div class="badge">2023.02 - 2023.07</div>
-<img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="100%">
+<img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="60%">
 </div>
 <!-- <div class='paper-box-text' markdown="1"> -->
 <div markdown="1">
@@ -95,9 +95,9 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 <div class='paper-box'>
 <!-- <div class='paper-box-image'> -->
-<div>
+<div style='text-align: center;'>
 <div class="badge">2022.08 - 2023.02</div>
-<img src='images/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="100%">
+<img src='images/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="60%">
 </div>
 <!-- <div class='paper-box-text' markdown="1"> -->
 <div markdown="1">
@@ -121,18 +121,16 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 <div class='paper-box'>
 <!-- <div class='paper-box-image'> -->
-<div>
+<div style='text-align: center;'>
 <div class="badge">2022.01 - 2022.06</div>
-<img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="100%">
+<img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="60%">
 </div>
 <!-- <div class='paper-box-text' markdown="1"> -->
 <div markdown="1">
 
 [**Project**](https://github.com/HaofeiMa/Multi-DOF_PTZ) | [**Video**](https://www.youtube.com/watch?v=gDLijtdpC2w)
-
 **Description**:
 - In traditional medical processes, traditional Chinese medicine practitioners often need to frequently change positions and adjust their angles to view the surgical area. Additionally, during rehabilitation treatment, the camera's range can be inadequate to cover the patient's moving area. Current recording methods commonly used suffer from limitations and lack automation. This article introduces a multi-degree-of-freedom pan-tilt system designed to track the positions of doctors and patients.
-
 
 **Finished Works**:
 1. Design the mechanical structure and simulate the platform's motion, using internal toothed rotary bearings to minimize the structural size. Protective structures have been designed for all sensor components.
@@ -152,10 +150,10 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 <div class='paper-box'>
 <!-- <div class='paper-box-image'> -->
-<div>
+<div style='text-align: center;'>
 <div class="badge">2020.11 - 2021.05</div>
-<img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="50%">
-<img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="50%">
+<img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="30%">
+<img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="33%">
 </div>
 <!-- <div class='paper-box-text' markdown="1"> -->
 <div markdown="1">
