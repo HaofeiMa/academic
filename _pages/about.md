@@ -41,7 +41,7 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 ## Sampling Robots in Complex Environments
 
-<div class='paper-box'>
+<div class='paper-box' style='position: relative;'>
 <!-- <div class='paper-box-image'> -->
 <div style='text-align: center;'>
 <div class="badge">2023.03 - Present</div>
@@ -69,7 +69,7 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 ## Autonomous Suture Robot System for Endoscopic Surgery
 
-<div class='paper-box'>
+<div class='paper-box' style='position: relative;'>
 <!-- <div class='paper-box-image'> -->
 <div style='text-align: center;'>
 <div class="badge">2023.02 - 2023.07</div>
@@ -93,7 +93,7 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 ## Rock Core Box Handling Robot
 
-<div class='paper-box'>
+<div class='paper-box' style='position: relative;'>
 <!-- <div class='paper-box-image'> -->
 <div style='text-align: center;'>
 <div class="badge">2022.08 - 2023.02</div>
@@ -119,7 +119,7 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 ## Medical Pan-Tilt Control System Based on Binocular Vision
 
-<div class='paper-box'>
+<div class='paper-box' style='position: relative;'>
 <!-- <div class='paper-box-image'> -->
 <div style='text-align: center;'>
 <div class="badge">2022.01 - 2022.06</div>
@@ -129,6 +129,7 @@ My research interest includes robot operation, grasping, object pose estimation.
 <div markdown="1">
 
 [**Project**](https://github.com/HaofeiMa/Multi-DOF_PTZ) | [**Video**](https://www.youtube.com/watch?v=gDLijtdpC2w)
+
 **Description**:
 - In traditional medical processes, traditional Chinese medicine practitioners often need to frequently change positions and adjust their angles to view the surgical area. Additionally, during rehabilitation treatment, the camera's range can be inadequate to cover the patient's moving area. Current recording methods commonly used suffer from limitations and lack automation. This article introduces a multi-degree-of-freedom pan-tilt system designed to track the positions of doctors and patients.
 
@@ -148,7 +149,7 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 ## Spherical Environmental Information Collection Robot
 
-<div class='paper-box'>
+<div class='paper-box' style='position: relative;'>
 <!-- <div class='paper-box-image'> -->
 <div style='text-align: center;'>
 <div class="badge">2020.11 - 2021.05</div>
@@ -197,26 +198,33 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
+<div class='paper-box'>
+- <code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> **Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**, **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
+</div>
 
-<code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> **Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**, **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
+<div class='paper-box'>
+- <code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> **Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**, Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
+</div>
 
-<code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> **Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**, Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
+<div class='paper-box'>
+- <code class="language-plaintext highlighter-rouge">Robotics and Automation Letters</code> **Dynamic Planning of Mobile Manipulator Based on Perception Prediction**, Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
+</div>
 
-<code class="language-plaintext highlighter-rouge">Robotics and Automation Letters</code> **Dynamic Planning of Mobile Manipulator Based on Perception Prediction**, Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
-
-<code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> **Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**, Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
+<div class='paper-box'>
+- <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> **Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**, Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
+</div>
 
 ## 📖 Patents
 
-<code class="language-plaintext highlighter-rouge">Invention Patent</code> [**A Rock Core Box Handling Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE1BAA2AAA8CDA8EDA9CIB9BIF9GBC9BED6BDA9HBH9IBE), Weidong Wang, Hengbin Liang, **Haofei Ma**, Gongcheng Wang (CN202310547284.5, Pending)
+- <code class="language-plaintext highlighter-rouge">Invention Patent</code> [**A Rock Core Box Handling Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE1BAA2AAA8CDA8EDA9CIB9BIF9GBC9BED6BDA9HBH9IBE), Weidong Wang, Hengbin Liang, **Haofei Ma**, Gongcheng Wang (CN202310547284.5, Pending)
 
-<code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**A Spherical Metamorphic Robot and An Environmental Information Monitoring System**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AHIA8FDA8AGA9GGE9HAA6GAA9HDD9CIC9FCA9HDC9GDF9ICF), Yuhan Rao, Manhong Li, *Haofei Ma*, Yuchong Gao, Nuo Zhang, Xinyu Liu (CN202120212154.2)
+- <code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**A Spherical Metamorphic Robot and An Environmental Information Monitoring System**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AHIA8FDA8AGA9GGE9HAA6GAA9HDD9CIC9FCA9HDC9GDF9ICF), Yuhan Rao, Manhong Li, *Haofei Ma*, Yuchong Gao, Nuo Zhang, Xinyu Liu (CN202120212154.2)
 
-<code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**A Rope Driven Cleaning Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA7BEA9DID9BIC9ICBBFIA8BDA9IBF9ICG8EEA9FDG), Bao Li, Manhong Li, Shuofan Li, **Haofei Ma**, Jidong Guo, Yuchong Gao, Yingxin Dong (CN202120545507.0)
+- <code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**A Rope Driven Cleaning Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA7BEA9DID9BIC9ICBBFIA8BDA9IBF9ICG8EEA9FDG), Bao Li, Manhong Li, Shuofan Li, **Haofei Ma**, Jidong Guo, Yuchong Gao, Yingxin Dong (CN202120545507.0)
 
-<code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**Small Ocean Vehicles Using Wave Energy to Generate Electricity**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EEB9HFD3ABA3CBA9AIB9GIF8IAA9FADBCIA9BEA9ECDAGGA), Yihan Gao, **Haofei Ma**, Shaoan Chen, Haoran Sun, Chenxi Song (CN202020078465.X)
+- <code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**Small Ocean Vehicles Using Wave Energy to Generate Electricity**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EEB9HFD3ABA3CBA9AIB9GIF8IAA9FADBCIA9BEA9ECDAGGA), Yihan Gao, **Haofei Ma**, Shaoan Chen, Haoran Sun, Chenxi Song (CN202020078465.X)
 
-<code class="language-plaintext highlighter-rouge">Utility Model Patent</code> **Identity Recognition and Infrared Temperature Measurement Control System**, **Haofei Ma** (2021SR1391064)
+- <code class="language-plaintext highlighter-rouge">Utility Model Patent</code> **Identity Recognition and Infrared Temperature Measurement Control System**, **Haofei Ma** (2021SR1391064)
 
 # 🏆 Honors and Awards
 
