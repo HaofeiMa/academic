@@ -193,19 +193,19 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-<div class='paper-box'>
+<div class='paper-box' markdown="1">
 - <code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> **Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**, **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' markdown="1">
 - <code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> **Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**, Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' markdown="1">
 - <code class="language-plaintext highlighter-rouge">Robotics and Automation Letters</code> **Dynamic Planning of Mobile Manipulator Based on Perception Prediction**, Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' markdown="1">
 - <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> **Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**, Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
 </div>
 
