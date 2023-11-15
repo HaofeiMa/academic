@@ -35,24 +35,23 @@ My research interest includes robot operation, grasping, object pose estimation.
 - *2022.09 - 2024.06 (now)*, [Harbin Institute of Technology](https://www.hit.edu.cn/), Harbin, (Percentage: 90.65, rank: 5/112).
 - *2018.09 - 2022.06*, [Hebei University of Technology](https://www.hebut.edu.cn/), Tianjin, (CGPA: 3.95/4, rank: 1/133).
  
-# 🔍 Projects
+# 🛠️ Projects
 
 <!-- Project -->
 
+## Sampling Robots in Complex Environments
+
 <div class='paper-box'>
-
-**Sampling Robots in Complex Environments**
-
-<div class='paper-box-image'>
+<!-- <div class='paper-box-image'> -->
+<div>
 <div class="badge">2023.03 - Present</div>
-<img src='images/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="100%">
+<img src='images/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="60%">
 </div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1"> -->
+<div markdown="1">
 
 **Description**:
-Because of the irregularities on the object's surface and variations in lighting conditions, point cloud images obtained from a single perspective often contain significant gaps and errors at the object's edges, which can lead to inaccurate grasping pose estimations. To tackle these challenges, this article proposes a practical robot grasping method based on 6D pose estimation and point cloud fusion. First, 6D pose estimation is conducted, utilizing the results from model point cloud and pose estimation to complete the input point cloud through ICP (Iterative Closest Point). Subsequently, the resulting complete object point cloud is used to estimate the 6D grasping pose of the object with the help of the grasping direction estimation network.
-
-</div><div markdown="1">
+- Because of the irregularities on the object's surface and variations in lighting conditions, point cloud images obtained from a single perspective often contain significant gaps and errors at the object's edges, which can lead to inaccurate grasping pose estimations. To tackle these challenges, this article proposes a practical robot grasping method based on 6D pose estimation and point cloud fusion. First, 6D pose estimation is conducted, utilizing the results from model point cloud and pose estimation to complete the input point cloud through ICP (Iterative Closest Point). Subsequently, the resulting complete object point cloud is used to estimate the 6D grasping pose of the object with the help of the grasping direction estimation network.
 
 **Finished Works**:
 1. Establish a model-free 6D pose estimation network based on perspective matching. Construct and train the pose estimation network to achieve precise pose estimation for seen objects and a rough estimation method for untrained objects. Create a pose refinement network for untrained objects when sparse point clouds are accessible.
@@ -68,20 +67,19 @@ Because of the irregularities on the object's surface and variations in lighting
 
 <!-- Project -->
 
+## Autonomous Suture Robot System for Endoscopic Surgery
+
 <div class='paper-box'>
-
-**Autonomous Suture Robot System for Endoscopic Surgery**
-
-<div class='paper-box-image'>
+<!-- <div class='paper-box-image'> -->
+<div>
 <div class="badge">2023.02 - 2023.07</div>
 <img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="100%">
 </div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1"> -->
+<div markdown="1">
 
 **Description**:
-The research objective is to enhance the efficiency and accuracy of autonomous suturing in endoscopic surgery. This involves designing a 3DOF autonomous suturing instrument, developing an efficient laparoscopic surgery robot based on 3D laparoscopy, and establishing a robot system that integrates visual, expert, and navigation systems.
-
-</div><div markdown="1">
+- The research objective is to enhance the efficiency and accuracy of autonomous suturing in endoscopic surgery. This involves designing a 3DOF autonomous suturing instrument, developing an efficient laparoscopic surgery robot based on 3D laparoscopy, and establishing a robot system that integrates visual, expert, and navigation systems.
 
 **Finished Works**:
 1. Perform the recognition and segmentation of surgical instruments and lesion tissues based on Yolov8, and determine the spatial position of the end of the surgical instruments.
@@ -93,20 +91,19 @@ The research objective is to enhance the efficiency and accuracy of autonomous s
 
 <!-- Project -->
 
+## Rock Core Box Handling Robot
+
 <div class='paper-box'>
-
-**Rock Core Box Handling Robot**
-
-<div class='paper-box-image'>
+<!-- <div class='paper-box-image'> -->
+<div>
 <div class="badge">2022.08 - 2023.02</div>
 <img src='images/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="100%">
 </div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1"> -->
+<div markdown="1">
 
 **Description**:
-Rock Core samples obtained from drilling before oil extraction are crucial data for assessing mining value, and they are stored in dedicated core boxes. During research and analysis, it's essential to arrange these rock core boxes neatly on-site in a designated order, one box at a time. However, these boxes are typically heavy, resulting in a high labor intensity that can impact transportation efficiency. The present invention aims to address the labor intensity associated with the current method of transporting core boxes, ultimately improving transportation efficiency.
-
-</div><div markdown="1">
+- Rock Core samples obtained from drilling before oil extraction are crucial data for assessing mining value, and they are stored in dedicated core boxes. During research and analysis, it's essential to arrange these rock core boxes neatly on-site in a designated order, one box at a time. However, these boxes are typically heavy, resulting in a high labor intensity that can impact transportation efficiency. The present invention aims to address the labor intensity associated with the current method of transporting core boxes, ultimately improving transportation efficiency.
 
 **Finished Works**:
 1. Build a sensing system that utilizes infrared sensors to detect surrounding obstacles, as well as fractional laser sensors to detect the current stacking height and alignment.
@@ -120,22 +117,22 @@ Rock Core samples obtained from drilling before oil extraction are crucial data 
 
 <!-- Project -->
 
+## Medical Pan-Tilt Control System Based on Binocular Vision
+
 <div class='paper-box'>
-
-**Medical Pan-Tilt Control System Based on Binocular Vision**
-
-<div class='paper-box-image'>
+<!-- <div class='paper-box-image'> -->
+<div>
 <div class="badge">2022.01 - 2022.06</div>
 <img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="100%">
 </div>
-<div class='paper-box-text' markdown="1">
-
-**Description**:
-In traditional medical processes, traditional Chinese medicine practitioners often need to frequently change positions and adjust their angles to view the surgical area. Additionally, during rehabilitation treatment, the camera's range can be inadequate to cover the patient's moving area. Current recording methods commonly used suffer from limitations and lack automation. This article introduces a multi-degree-of-freedom pan-tilt system designed to track the positions of doctors and patients.
+<!-- <div class='paper-box-text' markdown="1"> -->
+<div markdown="1">
 
 [**Project**](https://github.com/HaofeiMa/Multi-DOF_PTZ) | [**Video**](https://www.youtube.com/watch?v=gDLijtdpC2w)
 
-</div><div markdown="1">
+**Description**:
+- In traditional medical processes, traditional Chinese medicine practitioners often need to frequently change positions and adjust their angles to view the surgical area. Additionally, during rehabilitation treatment, the camera's range can be inadequate to cover the patient's moving area. Current recording methods commonly used suffer from limitations and lack automation. This article introduces a multi-degree-of-freedom pan-tilt system designed to track the positions of doctors and patients.
+
 
 **Finished Works**:
 1. Design the mechanical structure and simulate the platform's motion, using internal toothed rotary bearings to minimize the structural size. Protective structures have been designed for all sensor components.
@@ -151,27 +148,24 @@ In traditional medical processes, traditional Chinese medicine practitioners oft
 
 <!-- Project -->
 
+## Spherical Environmental Information Collection Robot
+
 <div class='paper-box'>
-
-**Spherical Environmental Information Collection Robot**
-
-<div class='paper-box-image'>
+<!-- <div class='paper-box-image'> -->
+<div>
 <div class="badge">2020.11 - 2021.05</div>
 <img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="50%">
 <img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="50%">
 </div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1"> -->
+<div markdown="1">
 
 **Description**:
-Monitoring essential information in various hazardous environments, such as petrochemical plants, chemical plants, and disaster sites, is vital for disaster prevention and reduction. In response to this need, our team has designed a spherical environment monitoring robot system. It features a spherical metamorphic structure with multiple telescopic feet that enable the robot to rotate, roll, and achieve all-round motion with high stability. These robots utilize self-organized network communication technology to offer multiple monitoring modes, and the collected data is packaged and transmitted to the upper computer system, enabling real-time dynamic monitoring of complex environmental information over a wide area.
-
-</div><div markdown="1">
+- Monitoring essential information in various hazardous environments, such as petrochemical plants, chemical plants, and disaster sites, is vital for disaster prevention and reduction. In response to this need, our team has designed a spherical environment monitoring robot system. It features a spherical metamorphic structure with multiple telescopic feet that enable the robot to rotate, roll, and achieve all-round motion with high stability. These robots utilize self-organized network communication technology to offer multiple monitoring modes, and the collected data is packaged and transmitted to the upper computer system, enabling real-time dynamic monitoring of complex environmental information over a wide area.
 
 **Finished Works**:
 1. Design the three-dimensional structure of the spherical robot, including the placement of controllers, sensors inside the sphere, and the spatial arrangement of leg motors.
-
 2. Implement control of spherical robot leg motors using STM32, calculate motion strategies, and achieve robot motion.
-
 3. Integrate , accelerometers, temperature and humidity sensors, gas sensors, etc., into the STM32 control system for Bluetooth-controlled robot motion and sensor data reception.
 
 </div>
@@ -249,6 +243,13 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 - *2019.12*, Mathematics Competition Provincial First Prize.
 - *2019.09*, iCAN International Innovation and Entrepreneurship Competition Provincial Third Prize.
 - *2019.06*, Mathematics Competition Provincial Second Prize.
+
+# 💼 Societies
+
+- *2023.02 - 2023.07*, School Office Assistant in Harbin Institute of Technology.
+- *2022.02 - 2022.06*, Class Leader in Hebei University of Technology.
+- *2019.09 - 2022.06*, Class Study Monitor in Hebei University of Technology.
+- *2020.09 - 2021.08*, Director of Haier Key Maker-Lab in Hebei University of Technology.
 
 <!-- 
 # 💬 Invited Talks
