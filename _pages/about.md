@@ -37,17 +37,22 @@ My research interest includes robot operation, grasping, object pose estimation.
  
 # 🔍 Projects
 
+<!-- Project -->
+
 <div class='paper-box'>
-<div style='align-items: center'>
-<div class="badge">2023.03 - Present</div>
-<img src='images/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="60%">
-</div>
-<div markdown="1">
 
 **Sampling Robots in Complex Environments**
 
+<div class='paper-box-image'>
+<div class="badge">2023.03 - Present</div>
+<img src='images/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="100%">
+</div>
+<div class='paper-box-text' markdown="1">
+
 **Description**:
 Because of the irregularities on the object's surface and variations in lighting conditions, point cloud images obtained from a single perspective often contain significant gaps and errors at the object's edges, which can lead to inaccurate grasping pose estimations. To tackle these challenges, this article proposes a practical robot grasping method based on 6D pose estimation and point cloud fusion. First, 6D pose estimation is conducted, utilizing the results from model point cloud and pose estimation to complete the input point cloud through ICP (Iterative Closest Point). Subsequently, the resulting complete object point cloud is used to estimate the 6D grasping pose of the object with the help of the grasping direction estimation network.
+
+</div><div markdown="1">
 
 **Finished Works**:
 1. Establish a model-free 6D pose estimation network based on perspective matching. Construct and train the pose estimation network to achieve precise pose estimation for seen objects and a rough estimation method for untrained objects. Create a pose refinement network for untrained objects when sparse point clouds are accessible.
@@ -61,17 +66,22 @@ Because of the irregularities on the object's surface and variations in lighting
 </div>
 </div>
 
+<!-- Project -->
+
 <div class='paper-box'>
-<div style='align-items: center'>
-<div class="badge">2023.02 - 2023.07</div>
-<img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="60%">
-</div>
-<div markdown="1">
 
 **Autonomous Suture Robot System for Endoscopic Surgery**
 
+<div class='paper-box-image'>
+<div class="badge">2023.02 - 2023.07</div>
+<img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="100%">
+</div>
+<div class='paper-box-text' markdown="1">
+
 **Description**:
 The research objective is to enhance the efficiency and accuracy of autonomous suturing in endoscopic surgery. This involves designing a 3DOF autonomous suturing instrument, developing an efficient laparoscopic surgery robot based on 3D laparoscopy, and establishing a robot system that integrates visual, expert, and navigation systems.
+
+</div><div markdown="1">
 
 **Finished Works**:
 1. Perform the recognition and segmentation of surgical instruments and lesion tissues based on Yolov8, and determine the spatial position of the end of the surgical instruments.
@@ -81,17 +91,22 @@ The research objective is to enhance the efficiency and accuracy of autonomous s
 </div>
 </div>
 
+<!-- Project -->
+
 <div class='paper-box'>
-<div style='align-items: center'>
-<div class="badge">2022.08 - 2023.02</div>
-<img src='images/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="60%">
-</div>
-<div markdown="1">
 
 **Rock Core Box Handling Robot**
 
+<div class='paper-box-image'>
+<div class="badge">2022.08 - 2023.02</div>
+<img src='images/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="100%">
+</div>
+<div class='paper-box-text' markdown="1">
+
 **Description**:
 Rock Core samples obtained from drilling before oil extraction are crucial data for assessing mining value, and they are stored in dedicated core boxes. During research and analysis, it's essential to arrange these rock core boxes neatly on-site in a designated order, one box at a time. However, these boxes are typically heavy, resulting in a high labor intensity that can impact transportation efficiency. The present invention aims to address the labor intensity associated with the current method of transporting core boxes, ultimately improving transportation efficiency.
+
+</div><div markdown="1">
 
 **Finished Works**:
 1. Build a sensing system that utilizes infrared sensors to detect surrounding obstacles, as well as fractional laser sensors to detect the current stacking height and alignment.
@@ -103,19 +118,24 @@ Rock Core samples obtained from drilling before oil extraction are crucial data 
 </div>
 </div>
 
+<!-- Project -->
+
 <div class='paper-box'>
-<div style='align-items: center'>
-<div class="badge">2022.01 - 2022.06</div>
-<img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="60%">
-</div>
-<div markdown="1">
 
 **Medical Pan-Tilt Control System Based on Binocular Vision**
 
-[**Project**](https://github.com/HaofeiMa/Multi-DOF_PTZ) | [**Video**](https://www.youtube.com/watch?v=gDLijtdpC2w)
+<div class='paper-box-image'>
+<div class="badge">2022.01 - 2022.06</div>
+<img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="100%">
+</div>
+<div class='paper-box-text' markdown="1">
 
 **Description**:
 In traditional medical processes, traditional Chinese medicine practitioners often need to frequently change positions and adjust their angles to view the surgical area. Additionally, during rehabilitation treatment, the camera's range can be inadequate to cover the patient's moving area. Current recording methods commonly used suffer from limitations and lack automation. This article introduces a multi-degree-of-freedom pan-tilt system designed to track the positions of doctors and patients.
+
+[**Project**](https://github.com/HaofeiMa/Multi-DOF_PTZ) | [**Video**](https://www.youtube.com/watch?v=gDLijtdpC2w)
+
+</div><div markdown="1">
 
 **Finished Works**:
 1. Design the mechanical structure and simulate the platform's motion, using internal toothed rotary bearings to minimize the structural size. Protective structures have been designed for all sensor components.
@@ -129,17 +149,23 @@ In traditional medical processes, traditional Chinese medicine practitioners oft
 </div>
 </div>
 
+<!-- Project -->
+
 <div class='paper-box'>
-<div style='align-items: center'>
-<div class="badge">2020.11 - 2021.05</div><img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="30%">
-<img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="33%">
-</div>
-<div markdown="1">
 
 **Spherical Environmental Information Collection Robot**
 
+<div class='paper-box-image'>
+<div class="badge">2020.11 - 2021.05</div>
+<img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="50%">
+<img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="50%">
+</div>
+<div class='paper-box-text' markdown="1">
+
 **Description**:
 Monitoring essential information in various hazardous environments, such as petrochemical plants, chemical plants, and disaster sites, is vital for disaster prevention and reduction. In response to this need, our team has designed a spherical environment monitoring robot system. It features a spherical metamorphic structure with multiple telescopic feet that enable the robot to rotate, roll, and achieve all-round motion with high stability. These robots utilize self-organized network communication technology to offer multiple monitoring modes, and the collected data is packaged and transmitted to the upper computer system, enabling real-time dynamic monitoring of complex environmental information over a wide area.
+
+</div><div markdown="1">
 
 **Finished Works**:
 1. Design the three-dimensional structure of the spherical robot, including the placement of controllers, sensors inside the sphere, and the spatial arrangement of leg motors.
@@ -180,25 +206,25 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 -->
 
 
-<code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code>**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**, **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
+<code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> **Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**, **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
 
-<code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code>**Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**, Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
+<code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> **Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**, Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
 
-<code class="language-plaintext highlighter-rouge">Robotics and Automation Letters</code>**Dynamic Planning of Mobile Manipulator Based on Perception Prediction**, Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
+<code class="language-plaintext highlighter-rouge">Robotics and Automation Letters</code> **Dynamic Planning of Mobile Manipulator Based on Perception Prediction**, Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
 
-<code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code>**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**, Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
+<code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> **Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**, Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
 
 ## 📖 Patents
 
-<code class="language-plaintext highlighter-rouge">Invention Patent</code>[**A Rock Core Box Handling Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE1BAA2AAA8CDA8EDA9CIB9BIF9GBC9BED6BDA9HBH9IBE), Weidong Wang, Hengbin Liang, **Haofei Ma**, Gongcheng Wang (CN202310547284.5, Pending)
+<code class="language-plaintext highlighter-rouge">Invention Patent</code> [**A Rock Core Box Handling Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE1BAA2AAA8CDA8EDA9CIB9BIF9GBC9BED6BDA9HBH9IBE), Weidong Wang, Hengbin Liang, **Haofei Ma**, Gongcheng Wang (CN202310547284.5, Pending)
 
-<code class="language-plaintext highlighter-rouge">Utility Model Patent</code>[**A Spherical Metamorphic Robot and An Environmental Information Monitoring System**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AHIA8FDA8AGA9GGE9HAA6GAA9HDD9CIC9FCA9HDC9GDF9ICF), Yuhan Rao, Manhong Li, *Haofei Ma*, Yuchong Gao, Nuo Zhang, Xinyu Liu (CN202120212154.2)
+<code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**A Spherical Metamorphic Robot and An Environmental Information Monitoring System**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AHIA8FDA8AGA9GGE9HAA6GAA9HDD9CIC9FCA9HDC9GDF9ICF), Yuhan Rao, Manhong Li, *Haofei Ma*, Yuchong Gao, Nuo Zhang, Xinyu Liu (CN202120212154.2)
 
-<code class="language-plaintext highlighter-rouge">Utility Model Patent</code>[**A Rope Driven Cleaning Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA7BEA9DID9BIC9ICBBFIA8BDA9IBF9ICG8EEA9FDG), Bao Li, Manhong Li, Shuofan Li, **Haofei Ma**, Jidong Guo, Yuchong Gao, Yingxin Dong (CN202120545507.0)
+<code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**A Rope Driven Cleaning Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA7BEA9DID9BIC9ICBBFIA8BDA9IBF9ICG8EEA9FDG), Bao Li, Manhong Li, Shuofan Li, **Haofei Ma**, Jidong Guo, Yuchong Gao, Yingxin Dong (CN202120545507.0)
 
-<code class="language-plaintext highlighter-rouge">Utility Model Patent</code>[**Small Ocean Vehicles Using Wave Energy to Generate Electricity**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EEB9HFD3ABA3CBA9AIB9GIF8IAA9FADBCIA9BEA9ECDAGGA), Yihan Gao, **Haofei Ma**, Shaoan Chen, Haoran Sun, Chenxi Song (CN202020078465.X)
+<code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**Small Ocean Vehicles Using Wave Energy to Generate Electricity**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EEB9HFD3ABA3CBA9AIB9GIF8IAA9FADBCIA9BEA9ECDAGGA), Yihan Gao, **Haofei Ma**, Shaoan Chen, Haoran Sun, Chenxi Song (CN202020078465.X)
 
-<code class="language-plaintext highlighter-rouge">Utility Model Patent</code>**Identity Recognition and Infrared Temperature Measurement Control System**, **Haofei Ma** (2021SR1391064)
+<code class="language-plaintext highlighter-rouge">Utility Model Patent</code> **Identity Recognition and Infrared Temperature Measurement Control System**, **Haofei Ma** (2021SR1391064)
 
 # 🏆 Honors and Awards
 
