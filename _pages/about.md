@@ -41,17 +41,16 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 ## Sampling Robots in Complex Environments
 
-<div class='paper-box' style='position: relative;'>
-<!-- <div class='paper-box-image'> -->
-<div style='text-align: center;'>
+<div class='paper-box'>
+<div class='paper-box-image'>
 <div class="badge">2023.03 - Present</div>
-<img src='images/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="60%">
+<img src='images/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="100%">
 </div>
-<!-- <div class='paper-box-text' markdown="1"> -->
-<div markdown="1">
+<div class='paper-box-text' markdown="1">
 
-**Description**:
-- Because of the irregularities on the object's surface and variations in lighting conditions, point cloud images obtained from a single perspective often contain significant gaps and errors at the object's edges, which can lead to inaccurate grasping pose estimations. To tackle these challenges, this article proposes a practical robot grasping method based on 6D pose estimation and point cloud fusion. First, 6D pose estimation is conducted, utilizing the results from model point cloud and pose estimation to complete the input point cloud through ICP (Iterative Closest Point). Subsequently, the resulting complete object point cloud is used to estimate the 6D grasping pose of the object with the help of the grasping direction estimation network.
+Because of the irregularities on the object's surface and variations in lighting conditions, point cloud images obtained from a single perspective often contain significant gaps and errors at the object's edges, which can lead to inaccurate grasping pose estimations. To tackle these challenges, this article proposes a practical robot grasping method based on 6D pose estimation and point cloud fusion. First, 6D pose estimation is conducted, utilizing the results from model point cloud and pose estimation to complete the input point cloud through ICP (Iterative Closest Point). Subsequently, the resulting complete object point cloud is used to estimate the 6D grasping pose of the object with the help of the grasping direction estimation network.
+
+</div><div markdown="1">
 
 **Finished Works**:
 1. Establish a model-free 6D pose estimation network based on perspective matching. Construct and train the pose estimation network to achieve precise pose estimation for seen objects and a rough estimation method for untrained objects. Create a pose refinement network for untrained objects when sparse point clouds are accessible.
@@ -69,17 +68,17 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 ## Autonomous Suture Robot System for Endoscopic Surgery
 
-<div class='paper-box' style='position: relative;'>
-<!-- <div class='paper-box-image'> -->
-<div style='text-align: center;'>
+<div class='paper-box'>
+<div class='paper-box-image'>
 <div class="badge">2023.02 - 2023.07</div>
 <img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="60%">
 </div>
-<!-- <div class='paper-box-text' markdown="1"> -->
-<div markdown="1">
+<div class='paper-box-text' markdown="1">
 
-**Description**:
-- The research objective is to enhance the efficiency and accuracy of autonomous suturing in endoscopic surgery. This involves designing a 3DOF autonomous suturing instrument, developing an efficient laparoscopic surgery robot based on 3D laparoscopy, and establishing a robot system that integrates visual, expert, and navigation systems.
+The research objective is to enhance the efficiency and accuracy of autonomous suturing in endoscopic surgery. This involves designing a 3DOF autonomous suturing instrument, developing an efficient laparoscopic surgery robot based on 3D laparoscopy, and establishing a robot system that integrates visual, expert, and navigation systems.
+
+</div>
+<div markdown="1">
 
 **Finished Works**:
 1. Perform the recognition and segmentation of surgical instruments and lesion tissues based on Yolov8, and determine the spatial position of the end of the surgical instruments.
@@ -93,17 +92,16 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 ## Rock Core Box Handling Robot
 
-<div class='paper-box' style='position: relative;'>
-<!-- <div class='paper-box-image'> -->
-<div style='text-align: center;'>
+<div class='paper-box'>
+<div class='paper-box-image'>
 <div class="badge">2022.08 - 2023.02</div>
 <img src='images/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="60%">
 </div>
-<!-- <div class='paper-box-text' markdown="1"> -->
-<div markdown="1">
+<div class='paper-box-text' markdown="1">
 
-**Description**:
-- Rock Core samples obtained from drilling before oil extraction are crucial data for assessing mining value, and they are stored in dedicated core boxes. During research and analysis, it's essential to arrange these rock core boxes neatly on-site in a designated order, one box at a time. However, these boxes are typically heavy, resulting in a high labor intensity that can impact transportation efficiency. The present invention aims to address the labor intensity associated with the current method of transporting core boxes, ultimately improving transportation efficiency.
+Rock Core samples obtained from drilling before oil extraction are crucial data for assessing mining value, and they are stored in dedicated core boxes. During research and analysis, it's essential to arrange these rock core boxes neatly on-site in a designated order, one box at a time. However, these boxes are typically heavy, resulting in a high labor intensity that can impact transportation efficiency. The present invention aims to address the labor intensity associated with the current method of transporting core boxes, ultimately improving transportation efficiency.
+
+</div><div markdown="1">
 
 **Finished Works**:
 1. Build a sensing system that utilizes infrared sensors to detect surrounding obstacles, as well as fractional laser sensors to detect the current stacking height and alignment.
@@ -119,19 +117,18 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 ## Medical Pan-Tilt Control System Based on Binocular Vision
 
-<div class='paper-box' style='position: relative;'>
-<!-- <div class='paper-box-image'> -->
-<div style='text-align: center;'>
+<div class='paper-box'>
+<div class='paper-box-image'>
 <div class="badge">2022.01 - 2022.06</div>
 <img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="60%">
 </div>
-<!-- <div class='paper-box-text' markdown="1"> -->
-<div markdown="1">
+<div class='paper-box-text' markdown="1">
+
+In traditional medical processes, traditional Chinese medicine practitioners often need to frequently change positions and adjust their angles to view the surgical area. Additionally, during rehabilitation treatment, the camera's range can be inadequate to cover the patient's moving area. Current recording methods commonly used suffer from limitations and lack automation. This article introduces a multi-degree-of-freedom pan-tilt system designed to track the positions of doctors and patients.
 
 [**Project**](https://github.com/HaofeiMa/Multi-DOF_PTZ) | [**Video**](https://www.youtube.com/watch?v=gDLijtdpC2w)
 
-**Description**:
-- In traditional medical processes, traditional Chinese medicine practitioners often need to frequently change positions and adjust their angles to view the surgical area. Additionally, during rehabilitation treatment, the camera's range can be inadequate to cover the patient's moving area. Current recording methods commonly used suffer from limitations and lack automation. This article introduces a multi-degree-of-freedom pan-tilt system designed to track the positions of doctors and patients.
+</div><div markdown="1">
 
 **Finished Works**:
 1. Design the mechanical structure and simulate the platform's motion, using internal toothed rotary bearings to minimize the structural size. Protective structures have been designed for all sensor components.
@@ -149,7 +146,7 @@ My research interest includes robot operation, grasping, object pose estimation.
 
 ## Spherical Environmental Information Collection Robot
 
-<div class='paper-box' style='position: relative;'>
+<div class='paper-box'>
 <!-- <div class='paper-box-image'> -->
 <div style='text-align: center;'>
 <div class="badge">2020.11 - 2021.05</div>
