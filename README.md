@@ -8,10 +8,10 @@ AcadHomepage
 [![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
 [![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
 [![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/HaofeiMa/academic-page/blob/master/LICENSE)  | [中文文档](./docs/README-zh.md) 
 </div>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage. This project is a clone from <a herf="https://github.com/RayeRen/acad-homepage.github.io">RayeRen/acad-homepage.github.io</a></p>
+<p align="center">A Modern and Responsive Academic Personal Homepage. This project is modified from <a herf="https://github.com/RayeRen/acad-homepage.github.io">RayeRen/acad-homepage.github.io</a></p>
 
 <p align="center">
     <br>
@@ -21,7 +21,7 @@ AcadHomepage
 
 Some examples:
 - [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+- [Personal Homepage of rayeren](https://rayeren.github.io/)
 
 ## Key Features
 - **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
@@ -67,4 +67,7 @@ Some examples:
 
 # Acknowledges
 
-- This project is a clone of [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
+- This project is modified from [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
+- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
+- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
+- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
