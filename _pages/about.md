@@ -32,8 +32,8 @@ My research interest includes robot operation, grasping, object pose estimation.
 -->
 
 # 📖 Educations
-- *2022.09 - 2024.06 (now)*, [Harbin Institute of Technology](https://www.hit.edu.cn/), Harbin, (Percentage: 90.65, rank: 5/112).
-- *2018.09 - 2022.06*, [Hebei University of Technology](https://www.hebut.edu.cn/), Tianjin, (CGPA: 3.95/4, rank: 1/133).
+- *2022.09 - 2024.06 (now)*, [Harbin Institute of Technology](https://www.hit.edu.cn/), Harbin, (Score: 90.65, rank: 5/112).
+- *2018.09 - 2022.06*, [Hebei University of Technology](https://www.hebut.edu.cn/), Tianjin, (GPA: 3.95/4, rank: 1/133).
 
 
 # 🔍 Projects
