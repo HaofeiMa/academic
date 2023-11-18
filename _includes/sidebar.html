@@ -10,5 +10,11 @@
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
   {% endif %}
+    <!-- 增加某种语言切换的按钮。注意 ul上加了一个 class="ignore" 代表这块代码不会被翻译到 -->
+    <ul class="ignore">
+    	<li><a href="javascript:translate.changeLanguage('english');">Eng</a></li>|
+    	<li><a href="javascript:translate.changeLanguage('chinese_simplified');">简</a></li>|
+    	<li><a href="javascript:translate.changeLanguage('chinese_traditional');">繁</a></li>
+    </ul>
   </div>
 {% endif %}
