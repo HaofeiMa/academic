@@ -1,4 +1,11 @@
 <script src="assets/js/main.min.js"></script>
 
+<!-- 引入多语言切换的js -->
+<script src="https://res.zvo.cn/translate/translate.js"></script>
+<script>
+	translate.selectLanguageTag.show = false; //不出现的select的选择语言
+	translate.execute();
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
