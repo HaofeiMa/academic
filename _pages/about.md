@@ -194,9 +194,9 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-- <code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> [**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems), **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
+- <code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> [**Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems), Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du (Accepted)
 
-- <code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> [**Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems), Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du (Under Review with Revisions Submitted)
+- <code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> [**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems), **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
 
 - <code class="language-plaintext highlighter-rouge">Robotics and Automation Letters</code> [**Dynamic Planning of Mobile Manipulator Based on Perception Prediction**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
 
