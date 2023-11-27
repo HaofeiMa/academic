@@ -173,7 +173,7 @@ Monitoring essential information in various hazardous environments, such as petr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/202309_A_study_of_robotic_search_strategy_for_multi-radiation_sources_in_unknown_environments.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A study of robotic search strategy for multi-radiation sources in unknown environments](https://doi.org/10.1016/j.robot.2023.104529)
+[**A study of robotic search strategy for multi-radiation sources in unknown environments**](https://doi.org/10.1016/j.robot.2023.104529)
 
 Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Weidong Wang, Zhijiang Du
 
