@@ -170,7 +170,23 @@ Monitoring essential information in various hazardous environments, such as petr
 
 ## 📃 Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/202309_A_study_of_robotic_search_strategy_for_multi-radiation_sources_in_unknown_environments.jpg' alt="sym" width="100%"></div></div>
+<!-- Paper 2023.12 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/publications/202309_A_study_of_robotic_search_strategy_for_multi-radiation_sources_in_unknown_environments.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**](https://doi.org/10.1016/j.robot.2023.104589)
+
+Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du
+
+[**Paper**](https://doi.org/10.1016/j.robot.2023.104589)
+- A real-time generation algorithm for spatio-temporal obstacle avoidance trajectories of EE is proposed, which satisfies both the workspace constraints and obstacle avoidance constraints of the mobile manipulator.
+- A reactive obstacle avoidance strategy is designed for nonholonomic MB obstacle avoidance, incorporating adaptive weights to ensure a smooth and effective obstacle avoidance process for the MB.
+
+</div>
+</div>
+
+<!-- Paper 2023.09 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/publications/202309_A_study_of_robotic_search_strategy_for_multi-radiation_sources_in_unknown_environments.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**A study of robotic search strategy for multi-radiation sources in unknown environments**](https://doi.org/10.1016/j.robot.2023.104529)
@@ -193,8 +209,6 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-
-- <code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> [**Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems), Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du (Accepted)
 
 - <code class="language-plaintext highlighter-rouge">Robotics and Autonomous Systems</code> [**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems), **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
 
