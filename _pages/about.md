@@ -45,7 +45,7 @@ My research interest includes robot operation, grasping, object pose estimation.
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div class="badge">2023.03 - Present</div>
-<img src='images/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="100%">
+<img src='images/projects/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,7 +72,7 @@ Because of the irregularities on the object's surface and variations in lighting
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div class="badge">2023.02 - 2023.07</div>
-<img src='images/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="100%">
+<img src='images/projects/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -95,7 +95,7 @@ The research objective is to enhance the efficiency and accuracy of autonomous s
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div class="badge">2022.08 - 2023.02</div>
-<img src='images/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="100%">
+<img src='images/projects/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,7 +120,7 @@ Rock Core samples obtained from drilling before oil extraction are crucial data 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div class="badge">2022.01 - 2022.06</div>
-<img src='images/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="100%">
+<img src='images/projects/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -149,8 +149,8 @@ In traditional medical processes, traditional Chinese medicine practitioners oft
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div class="badge">2020.11 - 2021.05</div>
-<img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="50%">
-<img src='images/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="50%">
+<img src='images/projects/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.gif' alt="sym" width="50%">
+<img src='images/projects/202011_Spherical_Metamorphic_Environmental_Information_Collection_Robot.png' alt="sym" width="50%">
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -171,7 +171,7 @@ Monitoring essential information in various hazardous environments, such as petr
 ## 📃 Papers
 
 <!-- Paper 2023.12 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/publications/202309_A_study_of_robotic_search_strategy_for_multi-radiation_sources_in_unknown_environments.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/publications/202312_Reactive_Mobile_Manipulation_Based_on_Dynamic_Dual-Trajectory_Tracking.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**](https://doi.org/10.1016/j.robot.2023.104589)
