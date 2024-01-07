@@ -231,6 +231,7 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 # 🏆 Honors and Awards
 
 ## 🏅 Honors
+- *2023.10*, Excellent Students of Harbin Institute of Technology
 - *2023.09*, Top Grade Scholarship in Harbin Institute of Technology
 - *2022.06*, Provincial Outstanding Graduates (Top 1%)
 - *2021.05*, Provincial Merit Student (Top 1%)
