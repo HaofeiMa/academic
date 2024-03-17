@@ -209,7 +209,6 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-<div style="white-space: pre-line;">
 
 - <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> [**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**](https://doi.org/10.1109/JSEN.2024.3364701)
 Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du, "Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking." IEEE Sensors Journal, 2024. (SCI-Q2)
@@ -218,7 +217,6 @@ Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijian
 
 - <code class="language-plaintext highlighter-rouge">Robotics and Automation Letters</code> [**Dynamic Planning of Mobile Manipulator Based on Perception Prediction**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
 
-</div>
 
 ## 📚 Patents
 
