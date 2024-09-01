@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haofei Ma - Academic Homepage"
-description              : "A master student in the National Key Lab of Robotics and Systems. Focusing on robot autonomous operation technology."
+description              : "A PhD student in The Hong Kong Polytechnic University. Focusing on robot learning and human-robot collaboration."
 repository               : "HaofeiMa/academic-page"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haofei Ma"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Harbin Institute of Technology"
-  location         : "Harbin, China"
+  bio              : "The Hong Kong Polytechnic University"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
