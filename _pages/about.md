@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a master student in the [National Key Laboratory of Robot Technology and Systems](http://robot.hit.edu.cn/) of [Harbin Institute of Technology](https://www.hit.edu.cn/), mainly engaged in the research of robot autonomous operation technology based on pose estimation and imitation learning.
+I am currently a PhD student in the [RAIDS Research Group](https://www.raids.group/) at the [Department of Industrial and Systems Engineering](https://www.polyu.edu.hk/en/ise/) of [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), mainly engaged in the research of robot learning, human-robot collaboration and robot teleoperation.
 
-I graduated from [School of Mechanical Engineering](https://mes.hebut.edu.cn/), Hebei University of Technology (河北工业大学机械工程学院) with a bachelor’s degree。 Now, I'm pursuing my master’s degree in the [School of Mechatronics Engineering](http://sme.hit.edu.cn/), Harbin Institute of Technology (哈尔滨工业大学机电工程学院), advised by Weidong Wang ([王伟东](http://homepage.hit.edu.cn/wangweidong)).
+I earned my bachelor’s degree at School of Mechanical Engineering, Hebei University of Technology ([河北工业大学机械工程学院](https://mes.hebut.edu.cn/)). I then pursued a master’s degree at the National Key Laboratory of Robot Technology and Systems, Harbin Institute of Technology ([哈尔滨工业大学机器人技术与系统国家重点实验室](http://robot.hit.edu.cn/)). Now, I'm pursuing a doctoral degree at the [RAIDS Research Group](https://www.raids.group/) in The Hong Kong Polytechnic University, under the guidance of [Ir Dr Pai Zheng](https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/).
 
-My research interest includes robot operation, grasping, object pose estimation. I have submitted 5 papers in SCI journals, applied 1 invention patent, authorized 3 utility model patents and 1 software copyright.
+My research interest includes robot learning, human-robot collaboration. I have submitted 5 papers in SCI journals, applied 1 invention patent, authorized 3 utility model patents and 1 software copyright.
 
 
 
@@ -32,7 +32,8 @@ My research interest includes robot operation, grasping, object pose estimation.
 -->
 
 # 📖 Educations
-- *2022.09 - 2024.06 (now)*, [Harbin Institute of Technology](https://www.hit.edu.cn/), Harbin, (Score: 90.65, rank: 5/112).
+- *2024.09 - now*, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong.
+- *2022.09 - 2024.06*, [Harbin Institute of Technology](https://www.hit.edu.cn/), Harbin, (Score: 90.65, rank: 13/177).
 - *2018.09 - 2022.06*, [Hebei University of Technology](https://www.hebut.edu.cn/), Tianjin, (GPA: 3.95/4, rank: 1/133).
 
 
@@ -213,7 +214,7 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 - <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> [**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**](https://doi.org/10.1109/JSEN.2024.3364701)<br>
 Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du, "Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking." IEEE Sensors Journal, 2024. (SCI-Q2)
 
-- <code class="language-plaintext highlighter-rouge">International Journal of Advanced Manufacturing Technology</code> [**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems)**Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review)
+- <code class="language-plaintext highlighter-rouge">International Journal of Advanced Manufacturing Technology</code> [**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems)**Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review with Minor revision submitted)
 
 - <code class="language-plaintext highlighter-rouge">Robotics and Automation Letters</code> [**Dynamic Planning of Mobile Manipulator Based on Perception Prediction**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
 
@@ -233,6 +234,7 @@ Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijian
 # 🏆 Honors and Awards
 
 ## 🏅 Honors
+- *2024.06*, HeGao Scholarship in Hebei University of Technology
 - *2023.12*, Leading Intelligence · Wang Yanqing Scholarship
 - *2023.10*, Excellent Students of Harbin Institute of Technology
 - *2023.09*, Top Grade Scholarship in Harbin Institute of Technology
