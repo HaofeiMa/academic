@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a PhD student in the [RAIDS Research Group](https://www.raids.group/) at the [Department of Industrial and Systems Engineering](https://www.polyu.edu.hk/en/ise/) of [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), mainly engaged in the research of robot learning, human-robot collaboration and robot teleoperation.
 
-I earned my bachelor’s degree at School of Mechanical Engineering, Hebei University of Technology ([河北工业大学机械工程学院](https://mes.hebut.edu.cn/)). I then pursued a master’s degree at the National Key Laboratory of Robot Technology and Systems, Harbin Institute of Technology ([哈尔滨工业大学机器人技术与系统国家重点实验室](http://robot.hit.edu.cn/)). Now, I'm pursuing a doctoral degree at the [RAIDS Research Group](https://www.raids.group/) in The Hong Kong Polytechnic University, under the guidance of [Ir Dr Pai Zheng](https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/).
+I earned my bachelor’s degree at School of Mechanical Engineering, Hebei University of Technology ([河北工业大学机械工程学院](https://mes.hebut.edu.cn/)). I then pursued a master’s degree at the National Key Laboratory of Robot Technology and Systems, Harbin Institute of Technology ([哈尔滨工业大学机器人技术与系统国家重点实验室](http://robot.hit.edu.cn/)). Now, I'm pursuing a doctoral degree at the [RAIDS Research Group](https://www.raids.group/) in The Hong Kong Polytechnic University, under the guidance of [Prof. Pai Zheng](https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/).
 
 My research interest includes robot learning, human-robot collaboration. I have submitted 5 papers in SCI journals, applied 1 invention patent, authorized 3 utility model patents and 1 software copyright.
 
