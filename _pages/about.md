@@ -171,8 +171,6 @@ Monitoring essential information in various hazardous environments, such as petr
 
 ## 📃 Papers
 
-- <code class="language-plaintext highlighter-rouge">International Journal of Advanced Manufacturing Technology</code> [**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems)**Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review with Minor revision submitted)
-
 <!-- Paper 2023.12 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Advanced Manufacturing Technology</div><img src='images/publications/202409_Robotic_Grasping_Method_with_6D_Pose_Estimation_and_Point_Cloud_Fusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
