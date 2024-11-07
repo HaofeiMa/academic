@@ -171,33 +171,22 @@ Monitoring essential information in various hazardous environments, such as petr
 
 ## 📃 Papers
 
+- <code class="language-plaintext highlighter-rouge">International Journal of Advanced Manufacturing Technology</code> [**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems)**Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review with Minor revision submitted)
+
 <!-- Paper 2023.12 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/publications/202312_Reactive_Mobile_Manipulation_Based_on_Dynamic_Dual-Trajectory_Tracking.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Advanced Manufacturing Technology</div><img src='images/publications/202409_Robotic_Grasping_Method_with_6D_Pose_Estimation_and_Point_Cloud_Fusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Reactive Mobile Manipulation Based on Dynamic Dual-Trajectory Tracking**](https://doi.org/10.1016/j.robot.2023.104589)
+[**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://doi.org/10.1007/s00170-024-14372-3)
 
-Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Din,g Hua Bai Wenda Xu, Weidong Wang, Zhijiang Du
+**Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du
 
-[**Paper**](https://doi.org/10.1016/j.robot.2023.104589)
-- A real-time generation algorithm for spatio-temporal obstacle avoidance trajectories of EE is proposed, which satisfies both the workspace constraints and obstacle avoidance constraints of the mobile manipulator.
-- A reactive obstacle avoidance strategy is designed for nonholonomic MB obstacle avoidance, incorporating adaptive weights to ensure a smooth and effective obstacle avoidance process for the MB.
-
-</div>
-</div>
-
-<!-- Paper 2023.09 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/publications/202309_A_study_of_robotic_search_strategy_for_multi-radiation_sources_in_unknown_environments.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**A study of robotic search strategy for multi-radiation sources in unknown environments**](https://doi.org/10.1016/j.robot.2023.104529)
-
-Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Weidong Wang, Zhijiang Du
-
-[**Paper**](https://doi.org/10.1016/j.robot.2023.104529)
-- A robot search strategy is proposed and evaluated for unknown radiation environments.
-- Combine ADE optimization with the PSPF algorithm to improve estimation efficiency.
-- An exploration scheme is proposed to balance exploration and exploitation.
+[**Paper**](https://doi.org/10.1007/s00170-024-14372-3)
+- A grasping pose estimation framework based on point cloud fusion and filtering is proposed, which solves the problem of sparse point clouds at object edges and facilitates more robust grasping.
+- A novel pose estimation method based on viewpoint selection is introduced, which first uses an RGBD cam
+era to reconstruct the point cloud model of the object, and then applies the principle of viewpoint selection to 
+obtain the 6D pose of the object.
+- We demonstrate that through pose estimation and point cloud fusion, this grasping framework can accurately grasp object from a single-view RGBD image, maintaining a high success rate even in cluttered scenes.
 
 </div>
 </div>
@@ -211,12 +200,13 @@ Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Wei
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-- <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> [**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**](https://doi.org/10.1109/JSEN.2024.3364701)<br>
-Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du, "Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking." IEEE Sensors Journal, 2024. (SCI-Q2)
+- <code class="language-plaintext highlighter-rouge">IJAMT</code> **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, and Zhijiang Du. "[**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://doi.org/10.1007/s00170-024-14372-3)." The International Journal of Advanced Manufacturing Technology (2024): 1-11. doi: [10.1007/s00170-024-14372-3](https://doi.org/10.1007/s00170-024-14372-3)
 
-- <code class="language-plaintext highlighter-rouge">International Journal of Advanced Manufacturing Technology</code> [**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems)**Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, Zhijiang Du (Under Review with Minor revision submitted)
+- <code class="language-plaintext highlighter-rouge">RAS</code> Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Ding, Hua Bai, Wenda Xu, Weidong Wang, and Zhijiang Du. "[**Reactive mobile manipulation based on dynamic dual-trajectory tracking**](https://doi.org/10.1016/j.robot.2023.104589)." Robotics and Autonomous Systems 172 (2024): 104589. doi: [10.1016/j.robot.2023.104589](https://doi.org/10.1016/j.robot.2023.104589).
 
-- <code class="language-plaintext highlighter-rouge">Robotics and Automation Letters</code> [**Dynamic Planning of Mobile Manipulator Based on Perception Prediction**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), Gongcheng Wang, Han Wang, **Haofei Ma**, Wenda Xu, Pengchao Ding, Hua Bai, Weidong Wang, Zhijiang Du(Under Review)
+- <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du. "[**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**](https://doi.org/10.1109/JSEN.2024.3364701)." IEEE Sensors Journal (2024). doi: [10.1109/JSEN.2024.3364701](https://doi.org/10.1109/JSEN.2024.3364701)
+
+- <code class="language-plaintext highlighter-rouge">RAS</code> Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Weidong Wang, Zhijiang Du. "[**A study of robotic search strategy for multi-radiation sources in unknown environments**](https://doi.org/10.1109/JSEN.2024.3364701)." Robotics and Autonomous Systems 169 (2023): 104529. doi: [10.1109/JSEN.2024.3364701](https://doi.org/10.1109/JSEN.2024.3364701).
 
 
 ## 📚 Patents
@@ -234,7 +224,7 @@ Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijian
 # 🏆 Honors and Awards
 
 ## 🏅 Honors
-- *2024.06*, HeGao Scholarship in Hebei University of Technology
+- *2024.06*, HeGao Scholarship in Harbin Institute of Technology
 - *2023.12*, Leading Intelligence · Wang Yanqing Scholarship
 - *2023.10*, Excellent Students of Harbin Institute of Technology
 - *2023.09*, Top Grade Scholarship in Harbin Institute of Technology
