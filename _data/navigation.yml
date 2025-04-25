@@ -18,6 +18,9 @@ main:
   - title: "Societies"
     url: "/#-societies"
 
+  - title: "简体中文"
+    url: "https://xueshu.mahaofei.com/"
+
   # - title: "Educations"
   #   url: "/#-educations"
 
