@@ -13,13 +13,6 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
-  <!-- 添加明显的博客链接按钮 -->
-  <div class="blog-button-container" style="text-align: center; margin: 15px 0;">
-    <a href="https://www.mahaofei.com/" class="blog-button" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-      <i class="fas fa-blog" style="margin-right: 8px;"></i>博客 Blog
-    </a>
-  </div>
-
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
@@ -226,6 +219,13 @@
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
+    </div>
+
+    <!-- 添加博客按钮到左侧最下面 -->
+    <div style="text-align: center; margin-top: 20px;">
+      <a href="https://www.mahaofei.com/" style="display: inline-block; padding: 8px 15px; background-color: #f2f3f3; color: #444; text-decoration: none; border-radius: 4px; font-weight: 600; font-size: 14px; border: 1px solid #e5e5e5; transition: all 0.3s ease;">
+        <i class="fas fa-blog" style="margin-right: 5px;"></i>Blog
+      </a>
     </div>
   </div>
 </div>
