@@ -19,9 +19,18 @@
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
+      
+      <!-- 博客按钮放在个人介绍和位置信息之间 -->
+      <li style="margin-bottom: 1em;">
+        <a href="https://www.mahaofei.com/" style="display: block; width: 100%; padding: 8px 0; background-color: #f2f3f3; color: #444; text-decoration: none; border-radius: 4px; font-weight: 600; font-size: 14px; border: 1px solid #e5e5e5; transition: all 0.3s ease; text-align: center;">
+          <i class="fas fa-blog" style="margin-right: 5px;"></i>Blog
+        </a>
+      </li>
+      
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
@@ -219,13 +228,6 @@
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
-    </div>
-
-    <!-- 添加博客按钮到左侧最下面 -->
-    <div style="text-align: center; margin-top: 20px;">
-      <a href="https://www.mahaofei.com/" style="display: block; width: 100%; padding: 8px 0; background-color: #f2f3f3; color: #444; text-decoration: none; border-radius: 4px; font-weight: 600; font-size: 14px; border: 1px solid #e5e5e5; transition: all 0.3s ease; text-align: center;">
-        <i class="fas fa-blog" style="margin-right: 5px;"></i>Blog
-      </a>
     </div>
   </div>
 </div>

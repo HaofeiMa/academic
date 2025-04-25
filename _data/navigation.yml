@@ -6,11 +6,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Projects"
-    url: "/#-projects"
-
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Projects"
+    url: "/#-projects"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
